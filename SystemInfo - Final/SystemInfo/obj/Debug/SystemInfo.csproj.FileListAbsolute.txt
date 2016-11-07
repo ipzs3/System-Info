@@ -1,0 +1,39 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\bin\Debug\SystemInfo.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\obj\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\obj\Debug\SystemInfo.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\obj\Debug\SystemInfo.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\obj\Debug\SystemInfo.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\SystemInfo\obj\Debug\SystemInfo.pdb
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe.config
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.pdb
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.Form1.resources
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.Properties.Resources.resources
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csproj.GenerateResource.Cache
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe.config
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.pdb
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.Form1.resources
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.Properties.Resources.resources
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\SystemInfo\SystemInfo\obj\Debug\SystemInfo.csproj.GenerateResource.Cache
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo - Final\SystemInfo\bin\Debug\SystemInfo.exe.config
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\Admin\Dropbox\Visual Studio 2015\Projects\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.pdb
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\bin\Debug\SystemInfo.exe.config
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.pdb
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.Form1.resources
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.Properties.Resources.resources
+C:\Users\Simeon.PC\Dropbox\Visual Studio 2015\Projects\Final\SystemInfo - Final\SystemInfo\obj\Debug\SystemInfo.csproj.GenerateResource.Cache
